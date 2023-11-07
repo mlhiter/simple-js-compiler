@@ -16,5 +16,5 @@ module.exports = function compiler(input) {
   const jsAST = transformer(lispAST)
   //4,代码生成
   const jsCode = generateCode(jsAST)
-  return lispAST
+  return jsCode
 }

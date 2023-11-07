@@ -1,7 +1,7 @@
 {
   "name": "tiny-compiler",
   "version": "1.0.0",
-  "description": "啊，一个简单的JS编译器，就酱",
+  "description": "a simple compiler->schoolwork",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
